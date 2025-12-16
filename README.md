@@ -72,3 +72,6 @@ This project presents an interactive Vehicles Performance Overview Dashboard bui
 
 📷 **Dashboard Preview**
 
+
+<img width="1744" height="631" alt="image" src="https://github.com/user-attachments/assets/8dc2cdbd-74ee-4be4-8b1c-c524e506b48e" />
+
