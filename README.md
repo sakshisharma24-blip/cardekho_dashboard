@@ -14,6 +14,7 @@ This project presents an interactive Vehicles Performance Overview Dashboard bui
 - Enable brand-level filtering for deeper insights
 
 📈 **Key Insights & Features**
+
 🔹 **Pricing Analysis**
 
 **Below** 10 Cars: Highlights affordable models like Maruti Wagon R, Celerio, S-Presso, and Hyundai i10.
