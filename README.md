@@ -8,8 +8,6 @@ This project presents an interactive Vehicles Performance Overview Dashboard bui
 
 - Analyze car pricing trends across different brands
 
-- Compare budget cars (below ₹10 lakh) and top premium cars
-
 - Understand mileage categories, vehicle age distribution, and seller types
 
 - Enable brand-level filtering for deeper insights
